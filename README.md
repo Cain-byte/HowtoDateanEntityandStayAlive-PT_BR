@@ -1,2 +1,4 @@
-# HowtoDateanEntityandStayAlive-PT_BR
-Um tradução de fão para a VN HowtoDateanEntityandStayAlive-1.0-pc
+<div  align="center">
+<img src="thumbnail.png" alt="Cain-byte" width="700" style="display:block; margin: 10px auto;">
+</div>
+<hr />
